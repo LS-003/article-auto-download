@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+config.env
+school.json
+harvest-list.csv
+list.csv
+downloads/
+*.log
+.DS_Store
+Thumbs.db

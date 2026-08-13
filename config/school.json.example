@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "school": {
+    "name": "YOUR_SCHOOL",
+    "code": null,
+    "configured_at": null,
+    "source": "resource_url"
+  },
+  "auth": {
+    "type": "custom",
+    "sso_domain": "YOUR_SCHOOL_LIBRARY_DOMAIN",
+    "carsi_entry": "YOUR_LIBRARY_CARSI_URL",
+    "carsi_sp_entity_id": null
+  },
+  "proxy": {
+    "type": null,
+    "ezproxy_url": null
+  },
+  "libraries": [],
+  "discovery": {
+    "resource_entry_url": "YOUR_LIBRARY_RESOURCE_ENTRY_URL"
+  },
+  "notes": "将本文件改名为 school.json 并填入你学校的图书馆/CARSI 入口信息"
+}
